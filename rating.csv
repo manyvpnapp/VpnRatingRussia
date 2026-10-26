@@ -1,0 +1,4 @@
+rank,name,url,score,min_price_rub,trial_days,mts,beeline,megafon,t2,last_checked,protocols,payment,tariffs
+"1","Capybara VPN","https://manyvpn.app/vpn/capybara-vpn","9.9","199","3","ok","ok","ok","ok","2026-10-24","VLESS","","1 мес — 249 ₽, безлимит, до 100 ГБ в сутки на устройство, устройств: 1 | 3 мес — 672 ₽, безлимит, до 100 ГБ в сутки на устройство, устройств: 1 | 6 мес — 1195 ₽, безлимит, до 100 ГБ в сутки на устройство, устройств: 1"
+"2","Atlanta VPN","https://manyvpn.app/vpn/atlanta-vpn","9.9","158","3","ok","ok","ok","ok","2026-10-24","VLESS; VLESS Reality","СБП; криптовалюта","1 мес — 199 ₽, устройств: 2 | 3 мес — 529 ₽, устройств: 2 | 6 мес — 999 ₽, устройств: 2 | 12 мес — 1890 ₽, устройств: 2"
+"3","LarpVPN","https://manyvpn.app/vpn/larp-vpn","9.8","0","365","unknown","unknown","unknown","unknown","","VLESS; Hysteria2; Trojan","","1 мес — 0 ₽"

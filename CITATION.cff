@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Рейтинг работающих VPN в России"
+message: "При использовании данных укажите ссылку на manyvpn.app."
+authors:
+  - name: "ManyVpn"
+url: "https://manyvpn.app"
+license: CC-BY-4.0
